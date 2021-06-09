@@ -1,2 +1,2 @@
 # Make-Image-List
-make image from twitter followes
+make image from twitter followers
